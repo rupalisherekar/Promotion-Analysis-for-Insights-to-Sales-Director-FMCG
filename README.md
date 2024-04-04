@@ -18,3 +18,28 @@ Other resources Provided:
 - Supporting documents
 
 [Link to the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ4Mjk2ZmItNmZmNC00NTgyLWFjMWYtNzUzNWVhYTIzMDVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+## Insights from the Analysis
+
+-	The 500 cash back promo maintains a good balance between quantity sold and Incremental Revenue whereas  with BOGOF(Buy One Get One) though seems better, the increment in revenue as opposed to the number of units sold is less. 
+-Though home appliances performed the best during both campaigns (in terms of sold quantity), the rise in revenue is only 87% as opposed to 273 % rise in sold quantity. 
+-	Combo1 category, which seconds in the number of units sold tops in rise in revenue generation during both the campaigns. It maintains a good balance between quantity sold 
+  nd revenue generated. The offer applied for this category is 500 cash back. 
+  -BOGOF is the winner during Sankranti while 500 Cashback tops in Diwali.
+-33%, 25% and 50% of promotions have failed during both campaigns
+-	The top revenue generating cities during Diwali are Bengaluru,Coimbatore and Chennai and during Sankranti are Trivendrum, Madurai, Vijaywada. Vishakhapatnam and Mangalore are the bottom two revenue generators during both the campaigns
+-	The overall top revenue generating stores are SDMU-0, SDMYS-3.
+-	The top revenue generating stores during Diwali are STCBE-0,STBLR-0 
+-	The top revenue generating stores during Sankranti are STMDU-0,STMYS-3.
+-	The major contribution to revenue in all of these stores is 500 cashback.
+-	The stores with top sales during Diwali are STVSK-0,STVSK-2
+-	The stores with top sales during  Sankranti are STTRV-0,STTRV-1 . The major contribution tosales in all of these stores is BOGOF but has resulted in proportionally less revenue generation
+•	Products in the personal care range have responded less to the promotions
+•	The stores which have responded poorly to promotions have good sales for the BOGOF offer but still have failed during both campaigns.
+•	Sales during Sankranti are more whereas revenue generation during Diwali is more.
+•	But there is a rise in sales as well as revenue generated for all stores during both the campaigns
+
+
+
